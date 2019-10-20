@@ -1,2 +1,4 @@
 data/*
 !data/.keep
+
+.DS_Store
